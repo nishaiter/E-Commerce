@@ -1,0 +1,17 @@
+.header{
+    background-color:black;
+    padding: 15px;
+    font-size: 20px;
+}
+.header a {
+    text-decoration: none;
+    color: lightcoral;
+}
+.container .search{
+    /* width: 30px;
+     */
+     margin: 20px;
+}
+.container .search select{
+    padding: 10px;
+}
